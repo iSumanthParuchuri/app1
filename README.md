@@ -1,6 +1,6 @@
 # Reference sites
 
-1. [For implementing Sidebar](https://www.devwares.com/blog/create-responsive-sidebar-in-react/)
+1. [For implementing Sidebar](https://www.geeksforgeeks.org/how-to-create-a-responsive-sidebar-with-dropdown-menu-in-reactjs/)
 
 
 ## Added packages
